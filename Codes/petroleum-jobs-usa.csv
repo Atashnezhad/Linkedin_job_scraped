@@ -1,0 +1,1493 @@
+,company,salary,title
+0,Shell,,Exploration Geoscientist
+1,Ulterra,$16 - $20 an hour,"Research & Development Intern, Petroleum Engineering & Compu..."
+2,State of Louisiana,"$3,999 - $7,006 a month",PETROLEUM SCIENTIST 1-3
+3,USC,,Part-Time Lecturer of Petroleum Engineering
+4,Vernon E. Faulconer,,Engineering Summer Intern
+5,Oklahoma State University,,Post Doctoral Fellow
+6,University of Houston,,Lecturer - Petroleum Engineering
+7,Lawrence Berkeley National Laboratory,,Hydrogeology Postdoctoral Fellow
+8,Chevron,,R&D Laboratory Technician
+9,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+10,University of Pittsburgh,,Petroleum Engineering Faculty
+11,Apache Corporation,,Engineer Drilling Sr
+12,Trident Engineering & Inspection,$20 - $30 an hour,Accounts Receivable and Accounts Payable Clerk
+13,IPCOS,,Digital Oil Field Consultant
+14,Hargrove Engineers + Constructors,,Process Engineer - Entry Level
+15,Hargrove Engineers + Constructors,,Process Engineer - Entry Level
+16,KeyLogic Systems,,Energy Analysis Internship
+17,CVR Energy,,Intern
+18,VAM USA,,(R&D) Project/Methods Engineer Intern
+19,US Department of the Air Force,,Engineering/Architecture
+20,Honeywell,,R&D Engr/Scientist I
+21,Oak Ridge National Laboratory,,R&D Associate Staff Member in Synthetic Biology and Metaboli...
+22,TechnipFMC,,Electronic Hardware Engineering Intern
+23,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+24,Penn State University,,Postdoctoral Scholar
+25,National Oilwell Varco,,"Regional Support Engineer, North America"
+26,Marathon Petroleum Corporation,,"Maintenance Mechanic (Kingfisher, OK)"
+27,PinnacleART,,Engineering Intern
+28,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+29,The University of Mississippi,,Assistant/Associate Professor of Geological Engineering
+30,CVR Energy,,Intern
+31,Hargrove Engineers + Constructors,,Process Engineer - Entry Level
+32,KeyLogic Systems,,Energy Analysis Internship
+33,VAM USA,,(R&D) Project/Methods Engineer Intern
+34,US Department of the Air Force,,Engineering/Architecture
+35,TechnipFMC,,Electronic Hardware Engineering Intern
+36,Penn State University,,Postdoctoral Scholar
+37,Honeywell,,R&D Engr/Scientist I
+38,Oak Ridge National Laboratory,,R&D Associate Staff Member in Synthetic Biology and Metaboli...
+39,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+40,Marathon Petroleum Corporation,,"Maintenance Mechanic (Kingfisher, OK)"
+41,National Oilwell Varco,,"Regional Support Engineer, North America"
+42,PinnacleART,,Engineering Intern
+43,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+44,The University of Mississippi,,Assistant/Associate Professor of Geological Engineering
+45,Shell,,Exploration Geoscientist
+46,Phillips 66,,Instrument Technician - Alliance Refinery
+47,Penn Virginia Corporation,,Production/Facilities Engineer
+48,Weatherford,,Production Engineer
+49,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+50,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+51,Discovery Natural Resources LLC,,Facilities Engineer
+52,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+53,Citgo,,Associate Mechanical Engineer
+54,Phillips 66,,Analyzer Technician - Alliance Refinery
+55,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+56,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+57,US Department of the Air Force,,Engineering/Architecture
+58,Lewis Energy Group,,Intern
+59,Phillips 66,,"Scientist, Lubricants Research & Development"
+60,CVR Energy,,Intern
+61,Hargrove Engineers + Constructors,,Process Engineer - Entry Level
+62,KeyLogic Systems,,Energy Analysis Internship
+63,VAM USA,,(R&D) Project/Methods Engineer Intern
+64,US Department of the Air Force,,Engineering/Architecture
+65,TechnipFMC,,Electronic Hardware Engineering Intern
+66,Penn State University,,Postdoctoral Scholar
+67,Honeywell,,R&D Engr/Scientist I
+68,Oak Ridge National Laboratory,,R&D Associate Staff Member in Synthetic Biology and Metaboli...
+69,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+70,Marathon Petroleum Corporation,,"Maintenance Mechanic (Kingfisher, OK)"
+71,National Oilwell Varco,,"Regional Support Engineer, North America"
+72,PinnacleART,,Engineering Intern
+73,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+74,The University of Mississippi,,Assistant/Associate Professor of Geological Engineering
+75,Shell,,Exploration Geoscientist
+76,Phillips 66,,Instrument Technician - Alliance Refinery
+77,Penn Virginia Corporation,,Production/Facilities Engineer
+78,Weatherford,,Production Engineer
+79,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+80,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+81,Discovery Natural Resources LLC,,Facilities Engineer
+82,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+83,Citgo,,Associate Mechanical Engineer
+84,Phillips 66,,Analyzer Technician - Alliance Refinery
+85,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+86,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+87,US Department of the Air Force,,Engineering/Architecture
+88,Lewis Energy Group,,Intern
+89,Phillips 66,,"Scientist, Lubricants Research & Development"
+90,Phillips 66,,Instrument Technician - Alliance Refinery
+91,Penn Virginia Corporation,,Production/Facilities Engineer
+92,Weatherford,,Production Engineer
+93,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+94,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+95,Discovery Natural Resources LLC,,Facilities Engineer
+96,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+97,Citgo,,Associate Mechanical Engineer
+98,Phillips 66,,Analyzer Technician - Alliance Refinery
+99,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+100,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+101,US Department of the Air Force,,Engineering/Architecture
+102,Lewis Energy Group,,Intern
+103,Phillips 66,,"Scientist, Lubricants Research & Development"
+104,INEOS Olefins & Polymers USA,,Inspector
+105,Weatherford,,Production Engineer
+106,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+107,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+108,Discovery Natural Resources LLC,,Facilities Engineer
+109,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+110,Citgo,,Associate Mechanical Engineer
+111,Phillips 66,,Analyzer Technician - Alliance Refinery
+112,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+113,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+114,US Department of the Air Force,,Engineering/Architecture
+115,Lewis Energy Group,,Intern
+116,Phillips 66,,"Scientist, Lubricants Research & Development"
+117,INEOS Olefins & Polymers USA,,Inspector
+118,Apache Corporation,,Engineer Drilling Sr
+119,U.S. SILICA,,Process Engineer
+120,CVR Energy,,Intern
+121,Hargrove Engineers + Constructors,,Process Engineer - Entry Level
+122,KeyLogic Systems,,Energy Analysis Internship
+123,VAM USA,,(R&D) Project/Methods Engineer Intern
+124,US Department of the Air Force,,Engineering/Architecture
+125,TechnipFMC,,Electronic Hardware Engineering Intern
+126,Penn State University,,Postdoctoral Scholar
+127,Honeywell,,R&D Engr/Scientist I
+128,Oak Ridge National Laboratory,,R&D Associate Staff Member in Synthetic Biology and Metaboli...
+129,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+130,Marathon Petroleum Corporation,,"Maintenance Mechanic (Kingfisher, OK)"
+131,Airswift,$50 - $75 an hour,
+132,National Oilwell Varco,,"Regional Support Engineer, North America"
+133,PinnacleART,,Engineering Intern
+134,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+135,Hargrove Engineers + Constructors,,Process Engineer - Entry Level
+136,KeyLogic Systems,,Energy Analysis Internship
+137,VAM USA,,(R&D) Project/Methods Engineer Intern
+138,US Department of the Air Force,,Engineering/Architecture
+139,TechnipFMC,,Electronic Hardware Engineering Intern
+140,Penn State University,,Postdoctoral Scholar
+141,Honeywell,,R&D Engr/Scientist I
+142,Oak Ridge National Laboratory,,R&D Associate Staff Member in Synthetic Biology and Metaboli...
+143,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+144,Marathon Petroleum Corporation,,"Maintenance Mechanic (Kingfisher, OK)"
+145,National Oilwell Varco,,"Regional Support Engineer, North America"
+146,PinnacleART,,Engineering Intern
+147,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+148,The University of Mississippi,,Assistant/Associate Professor of Geological Engineering
+149,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+150,Phillips 66,,Instrument Technician - Alliance Refinery
+151,Penn Virginia Corporation,,Production/Facilities Engineer
+152,Weatherford,,Production Engineer
+153,The University of Pittsburgh,,Faculty Professor Associate- Full Time/Chemical and Petroleu...
+154,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+155,Discovery Natural Resources LLC,,Facilities Engineer
+156,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+157,Citgo,,Associate Mechanical Engineer
+158,Phillips 66,,Analyzer Technician - Alliance Refinery
+159,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+160,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+161,US Department of the Air Force,,Engineering/Architecture
+162,Lewis Energy Group,,Intern
+163,Phillips 66,,"Scientist, Lubricants Research & Development"
+164,INEOS Olefins & Polymers USA,,Inspector
+165,Apache Corporation,,Engineer Drilling Sr
+166,U.S. SILICA,,Process Engineer
+167,Collarini Energy Experts,,Reservoir Engineer
+168,Team Inc.,,UR - Engineering - Intern
+169,Oklahoma State University,,Post Doctoral Fellow
+170,"Team Industrial Services, Inc.",,UR - Engineering - FT
+171,Occidental Petroleum Corporation,,Production Engineer
+172,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+173,Englobal Master,,VICE PRESIDENT
+174,Occidental Petroleum Corporation,,Chemical Operator
+175,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+176,Exponent,,Thermal Sciences Engineers
+177,Marathon Petroleum Corporation,,"Pipeline Operator - Carlsbad, NM"
+178,Nabors Industries,,MPD Field Engineer
+179,Weston Solutions,,Engineering Associate 2
+180,INEOS Olefins & Polymers USA,,Inspector
+181,Apache Corporation,,Engineer Drilling Sr
+182,U.S. SILICA,,Process Engineer
+183,Collarini Energy Experts,,Reservoir Engineer
+184,Team Inc.,,UR - Engineering - Intern
+185,Oklahoma State University,,Post Doctoral Fellow
+186,"Team Industrial Services, Inc.",,UR - Engineering - FT
+187,Occidental Petroleum Corporation,,Production Engineer
+188,Englobal Master,,VICE PRESIDENT
+189,Occidental Petroleum Corporation,,Chemical Operator
+190,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+191,Exponent,,Thermal Sciences Engineers
+192,Marathon Petroleum Corporation,,"Pipeline Operator - Carlsbad, NM"
+193,Nabors Industries,,MPD Field Engineer
+194,Weston Solutions,,Engineering Associate 2
+195,Apache Corporation,,Engineer Drilling Sr
+196,U.S. SILICA,,Process Engineer
+197,Collarini Energy Experts,,Reservoir Engineer
+198,Team Inc.,,UR - Engineering - Intern
+199,Oklahoma State University,,Post Doctoral Fellow
+200,"Team Industrial Services, Inc.",,UR - Engineering - FT
+201,Occidental Petroleum Corporation,,Production Engineer
+202,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+203,Englobal Master,,VICE PRESIDENT
+204,Occidental Petroleum Corporation,,Chemical Operator
+205,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+206,Exponent,,Thermal Sciences Engineers
+207,Marathon Petroleum Corporation,,"Pipeline Operator - Carlsbad, NM"
+208,Nabors Industries,,MPD Field Engineer
+209,Weston Solutions,,Engineering Associate 2
+210,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+211,SD School of Mines,,Assistant Professor of Geological Engineering
+212,Exponent,,Thermal Sciences Engineers
+213,Citgo,,CC Mechanical Engineer Intern
+214,Marathon Petroleum Corporation,,Designer/Drafter
+215,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+216,Citgo,,CC Electrical Engineer Intern
+217,Killam,,Senior Petroleum Engineer
+218,Phillips 66,,"Scientist, Lubricants Research & Development"
+219,TechnipFMC,,Software Engineering Intern
+220,Phillips 66,,Data Scientist
+221,Collarini Energy Experts,,Reservoir Engineer
+222,DeGolyer and MacNaughton,,Senior Completion Engineer –
+223,DNV GL AS,,Summer Engineering Intern - Pipeline Hydraulics Consulting (...
+224,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+225,Bennett Pump Company,,Software Engineer
+226,Reid Petroleum,,Network Specialist
+227,Terra Engineering & Construction Corporation,,Payroll Administrator
+228,Kiely Family of Companies,,
+229,Discovery Natural Resources LLC,,Facilities Engineer
+230,American Journal Experts (AJE),,Independent Contract Editor--Engineering
+231,Citgo,,Associate Mechanical Engineer
+232,Phillips 66,,Analyzer Technician - Alliance Refinery
+233,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+234,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+235,US Department of the Air Force,,Engineering/Architecture
+236,Lewis Energy Group,,Intern
+237,Phillips 66,,"Scientist, Lubricants Research & Development"
+238,INEOS Olefins & Polymers USA,,Inspector
+239,Lamberti Synthesis USA,"$42,000 - $50,000 a year",Process Technician
+240,Gevo Inc.,,Plant Process Engineer
+241,RDM Industrial Electronics,$18.55 - $25.14 an hour,Electronics Technician
+242,Airswift,$50 - $75 an hour,
+243,DeGolyer and MacNaughton,,Senior Completion Engineer –
+244,DNV GL AS,,Summer Engineering Intern - Pipeline Hydraulics Consulting (...
+245,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+246,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+247,Team Inc.,,UR - Engineering - Intern
+248,Clariant,,Technical Service Engineer
+249,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+250,Apache Corporation,,Engineer Reservoir III
+251,Kinder Morgan,,Director of Engineering Project Management
+252,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+253,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+254,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+255,Phillips 66,,Technician - Renewables
+256,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+257,Killam,,Senior Petroleum Engineer
+258,Citgo,,CC Electrical Engineer Intern
+259,Pioneer Natural Resources Company,,DOUBLEPOINT EMPLOYEE ONLY - Operations Engineering Superviso...
+260,Phillips 66,,"Scientist, Lubricants Research & Development"
+261,Phillips 66,,Data Scientist
+262,TechnipFMC,,Software Engineering Intern
+263,DeGolyer and MacNaughton,,Senior Completion Engineer –
+264,DNV GL AS,,Summer Engineering Intern - Pipeline Hydraulics Consulting (...
+265,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+266,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+267,Team Inc.,,UR - Engineering - Intern
+268,Clariant,,Technical Service Engineer
+269,AVEVA,,Senior Simulation Engineer
+270,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+271,Apache Corporation,,Engineer Reservoir III
+272,Apache Corporation,,Engineer Drilling Sr
+273,U.S. SILICA,,Process Engineer
+274,Collarini Energy Experts,,Reservoir Engineer
+275,Team Inc.,,UR - Engineering - Intern
+276,Oklahoma State University,,Post Doctoral Fellow
+277,"Team Industrial Services, Inc.",,UR - Engineering - FT
+278,Occidental Petroleum Corporation,,Production Engineer
+279,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+280,Englobal Master,,VICE PRESIDENT
+281,Occidental Petroleum Corporation,,Chemical Operator
+282,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+283,Exponent,,Thermal Sciences Engineers
+284,Marathon Petroleum Corporation,,"Pipeline Operator - Carlsbad, NM"
+285,Nabors Industries,,MPD Field Engineer
+286,Weston Solutions,,Engineering Associate 2
+287,Apache Corporation,,Engineer Drilling Sr
+288,U.S. SILICA,,Process Engineer
+289,Collarini Energy Experts,,Reservoir Engineer
+290,Team Inc.,,UR - Engineering - Intern
+291,Oklahoma State University,,Post Doctoral Fellow
+292,"Team Industrial Services, Inc.",,UR - Engineering - FT
+293,Occidental Petroleum Corporation,,Production Engineer
+294,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+295,Englobal Master,,VICE PRESIDENT
+296,Occidental Petroleum Corporation,,Chemical Operator
+297,CPA Global Limited,,Patent Analyst - Chemistry (Remote Contractor)
+298,Exponent,,Thermal Sciences Engineers
+299,Marathon Petroleum Corporation,,"Pipeline Operator - Carlsbad, NM"
+300,Nabors Industries,,MPD Field Engineer
+301,Weston Solutions,,Engineering Associate 2
+302,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+303,Team Inc.,,UR - Engineering - Intern
+304,Clariant,,Technical Service Engineer
+305,AVEVA,,Senior Simulation Engineer
+306,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+307,Apache Corporation,,Engineer Reservoir III
+308,Kinder Morgan,,Director of Engineering Project Management
+309,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+310,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+311,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+312,Phillips 66,,Technician - Renewables
+313,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+314,US Department of Justice,"$74,334 - $96,640 a year",Engineering Technician
+315,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+316,Johnson Controls,,"Staff Pressure Vessel Code Engineer, Remote position"
+317,Apache Corporation,,Engineer Reservoir III
+318,Gardner Denver Petroleum,,Development Engineer/Sustaining
+319,"Team Industrial Services, Inc.",,University - Engineering - Intern
+320,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+321,TC Energy,,Well Engineer
+322,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+323,CVR Energy,,Intern
+324,"Applied Research Associates, Inc",,Engineering Aide
+325,Phillips 66,,Data Scientist
+326,Kinder Morgan,,Operator 12
+327,Piper Sandler,,E&P Engineer
+328,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+329,Gardner Denver Petroleum,,Development Engineer
+330,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+331,Diakon Solutions,"$75,000 - $83,000 a year",Associate Engineer/Chemist
+332,Team Inc.,,UR - Engineering - Intern
+333,Clariant,,Technical Service Engineer
+334,Phillips 66,,Technician - Renewables
+335,AVEVA,,Senior Simulation Engineer
+336,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+337,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+338,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+339,Johnson Controls,,"Staff Pressure Vessel Code Engineer, Remote position"
+340,Saint-Gobain,,Principal Scientist- Asphalt
+341,Phillips 66,,Technician - Analytical Sciences
+342,Apache Corporation,,Engineer Reservoir III
+343,US Department of Justice,"$74,334 - $96,640 a year",Engineering Technician
+344,Kinder Morgan,,Director of Engineering Project Management
+345,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+346,Phillips 66,,Instrument Technician - Alliance Refinery
+347,Team Inc.,,UR - Engineering - Intern
+348,Clariant,,Technical Service Engineer
+349,AVEVA,,Senior Simulation Engineer
+350,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+351,Apache Corporation,,Engineer Reservoir III
+352,Kinder Morgan,,Director of Engineering Project Management
+353,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+354,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+355,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+356,Phillips 66,,Technician - Renewables
+357,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+358,US Department of Justice,"$74,334 - $96,640 a year",Engineering Technician
+359,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+360,Johnson Controls,,"Staff Pressure Vessel Code Engineer, Remote position"
+361,Gardner Denver Petroleum,,Development Engineer
+362,Weston Solutions,,Engineering Associate 2
+363,Apache Corporation,,Engineer Reservoir III
+364,Gardner Denver Petroleum,,Development Engineer/Sustaining
+365,"Team Industrial Services, Inc.",,University - Engineering - Intern
+366,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+367,TC Energy,,Well Engineer
+368,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+369,CVR Energy,,Intern
+370,"Applied Research Associates, Inc",,Engineering Aide
+371,Phillips 66,,Data Scientist
+372,Kinder Morgan,,Operator 12
+373,Piper Sandler,,E&P Engineer
+374,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+375,Gardner Denver Petroleum,,Development Engineer
+376,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+377,Piper Sandler,,E&P Engineer
+378,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+379,Gardner Denver Petroleum,,Development Engineer
+380,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+381,Diakon Solutions,"$75,000 - $83,000 a year",Associate Engineer/Chemist
+382,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+383,SPATCO ENERGY SOLUTIONS LLC,,Petroleum Sales Representative
+384,Bolivar Trading,,"SALES REPRESENTATIVE, PETROLEUM EQUIPMENT DIV."
+385,Testengeer Incorporated,$24 - $45 an hour,Chemical Engineer
+386,US Department of Veterans Affairs,"$58,842 - $76,499 a year",Engineering Technician
+387,VAM USA,,(R&D) Project/Methods Engineer Intern
+388,Honeywell,,Chemical Operator - Level 1
+389,TechnipFMC,,Electronic Hardware Engineering Intern
+390,Occidental Petroleum Corporation,,Safety Superintendent
+391,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+392,Weston Solutions,,Engineering Associate 2
+393,Apache Corporation,,Engineer Reservoir III
+394,Gardner Denver Petroleum,,Development Engineer/Sustaining
+395,"Team Industrial Services, Inc.",,University - Engineering - Intern
+396,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+397,TC Energy,,Well Engineer
+398,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+399,CVR Energy,,Intern
+400,"Applied Research Associates, Inc",,Engineering Aide
+401,Phillips 66,,Data Scientist
+402,Kinder Morgan,,Operator 12
+403,Piper Sandler,,E&P Engineer
+404,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+405,Gardner Denver Petroleum,,Development Engineer
+406,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+407,Team Inc.,,UR - Engineering - Intern
+408,Clariant,,Technical Service Engineer
+409,AVEVA,,Senior Simulation Engineer
+410,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+411,Apache Corporation,,Engineer Reservoir III
+412,Kinder Morgan,,Director of Engineering Project Management
+413,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+414,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+415,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+416,Phillips 66,,Technician - Renewables
+417,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+418,US Department of Justice,"$74,334 - $96,640 a year",Engineering Technician
+419,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+420,Johnson Controls,,"Staff Pressure Vessel Code Engineer, Remote position"
+421,Gardner Denver Petroleum,,Development Engineer
+422,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+423,Team Inc.,,UR - Engineering - Intern
+424,Clariant,,Technical Service Engineer
+425,AVEVA,,Senior Simulation Engineer
+426,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+427,Apache Corporation,,Engineer Reservoir III
+428,Kinder Morgan,,Director of Engineering Project Management
+429,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+430,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+431,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+432,Phillips 66,,Technician - Renewables
+433,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+434,US Department of Justice,"$74,334 - $96,640 a year",Engineering Technician
+435,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+436,Johnson Controls,,"Staff Pressure Vessel Code Engineer, Remote position"
+437,CVR Energy,,Intern
+438,"Applied Research Associates, Inc",,Engineering Aide
+439,Phillips 66,,Data Scientist
+440,Kinder Morgan,,Operator 12
+441,Piper Sandler,,E&P Engineer
+442,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+443,Gardner Denver Petroleum,,Development Engineer
+444,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+445,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+446,SPATCO ENERGY SOLUTIONS LLC,,Petroleum Sales Representative
+447,Bolivar Trading,,"SALES REPRESENTATIVE, PETROLEUM EQUIPMENT DIV."
+448,Testengeer Incorporated,$24 - $45 an hour,Chemical Engineer
+449,US Department of Veterans Affairs,"$58,842 - $76,499 a year",Engineering Technician
+450,VAM USA,,(R&D) Project/Methods Engineer Intern
+451,Honeywell,,Chemical Operator - Level 1
+452,Phillips 66,,Instrument Technician - Alliance Refinery
+453,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+454,BayoTech,,Sr. Scientist – Heat Transfer Expert
+455,Gardner Denver Petroleum,,Development Engineer
+456,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+457,Oklahoma State University,,Assistant Professor
+458,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+459,International United Technology Group,,Fracturing engineer
+460,HDR,,Mechanical EIT/Designer
+461,Axens North America,,Technology Engineer
+462,Aveva,,Senior Simulation Engineer - Practices
+463,International United Technology Group,,Reservoir engineer
+464,S&P Global,"$46,200 - $155,900 a year","Analyst, Carbon Analytics"
+465,"UGI Energy Services, LLC",$33 - $40 an hour,Pipeline Integrity & Corrosioin Engineer and/or Specialist
+466,Occidental Petroleum Corporation,,Drafting/Designer
+467,Phillips 66,,Instrument Technician - Alliance Refinery
+468,Axens North America,,Technology Engineer
+469,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+470,Phillips 66,,Technician - Analytical Sciences
+471,Occidental Petroleum Corporation,,Drafting/Designer
+472,HDR,,Mechanical EIT/Designer
+473,Saint-Gobain,,Principal Scientist- Asphalt
+474,"UGI Energy Services, LLC",$33 - $40 an hour,Pipeline Integrity & Corrosioin Engineer and/or Specialist
+475,Oklahoma State University,,Assistant Professor
+476,Aveva,,Senior Simulation Engineer - Practices
+477,International United Technology Group,,Fracturing engineer
+478,Energy Transfer Family of Partnerships,,Sr Engineer - Pipeline Integrity
+479,BayoTech,,Sr. Scientist – Heat Transfer Expert
+480,International United Technology Group,,Reservoir engineer
+481,S&P Global,"$46,200 - $155,900 a year","Analyst, Carbon Analytics"
+482,Gardner Denver Petroleum,,Development Engineer
+483,Phillips 66,,Instrument Technician - Alliance Refinery
+484,Axens North America,,Technology Engineer
+485,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+486,Phillips 66,,Technician - Analytical Sciences
+487,Occidental Petroleum Corporation,,Drafting/Designer
+488,HDR,,Mechanical EIT/Designer
+489,Saint-Gobain,,Principal Scientist- Asphalt
+490,"UGI Energy Services, LLC",$33 - $40 an hour,Pipeline Integrity & Corrosioin Engineer and/or Specialist
+491,Oklahoma State University,,Assistant Professor
+492,Aveva,,Senior Simulation Engineer - Practices
+493,International United Technology Group,,Fracturing engineer
+494,Energy Transfer Family of Partnerships,,Sr Engineer - Pipeline Integrity
+495,BayoTech,,Sr. Scientist – Heat Transfer Expert
+496,International United Technology Group,,Reservoir engineer
+497,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+498,Phillips 66,,Instrument Technician - Alliance Refinery
+499,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+500,BayoTech,,Sr. Scientist – Heat Transfer Expert
+501,Gardner Denver Petroleum,,Development Engineer
+502,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+503,Oklahoma State University,,Assistant Professor
+504,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+505,International United Technology Group,,Fracturing engineer
+506,HDR,,Mechanical EIT/Designer
+507,Axens North America,,Technology Engineer
+508,Aveva,,Senior Simulation Engineer - Practices
+509,International United Technology Group,,Reservoir engineer
+510,S&P Global,"$46,200 - $155,900 a year","Analyst, Carbon Analytics"
+511,"UGI Energy Services, LLC",$33 - $40 an hour,Pipeline Integrity & Corrosioin Engineer and/or Specialist
+512,Collarini Energy Experts,,Reservoir Engineer
+513,DeGolyer and MacNaughton,,Senior Completion Engineer –
+514,DNV GL AS,,Summer Engineering Intern - Pipeline Hydraulics Consulting (...
+515,Crimson Engineering INC,,NATURAL GAS PROCESSING ENGINEER
+516,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+517,Team Inc.,,UR - Engineering - Intern
+518,Clariant,,Technical Service Engineer
+519,Phillips 66,,Technician - Renewables
+520,AVEVA,,Senior Simulation Engineer
+521,ProPetro Holding Corp,,HYDRAULIC FRACTURING ENGINEER
+522,U.S. Navy,,
+523,PG&E Corporation,,Senior Reservoir Engineer
+524,"Vitus Energy, LLC","From $100,000 a year",Port Engineer
+525,Gevo Inc.,,Plant Process Engineer
+526,Scully Signal Company,,Systems Design Engineer
+527,Phillips 66,,Instrument Technician - Alliance Refinery
+528,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+529,BayoTech,,Sr. Scientist – Heat Transfer Expert
+530,Gardner Denver Petroleum,,Development Engineer
+531,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+532,Oklahoma State University,,Assistant Professor
+533,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+534,International United Technology Group,,Fracturing engineer
+535,HDR,,Mechanical EIT/Designer
+536,Axens North America,,Technology Engineer
+537,Aveva,,Senior Simulation Engineer - Practices
+538,International United Technology Group,,Reservoir engineer
+539,S&P Global,"$46,200 - $155,900 a year","Analyst, Carbon Analytics"
+540,"UGI Energy Services, LLC",$33 - $40 an hour,Pipeline Integrity & Corrosioin Engineer and/or Specialist
+541,Occidental Petroleum Corporation,,Drafting/Designer
+542,Chemical & Industrial Engineering Inc,,PLANT DESIGN DESIGNER V
+543,Occidental Petroleum Corporation,,Drafting/Designer
+544,Phillips 66,,Technician - Analytical Sciences
+545,Occidental Petroleum Corporation,,Supt Maintenance
+546,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+547,Western Research Institute,"From $80,000 a year",Project Leader
+548,Reid Petroleum,,Network Specialist
+549,Entergy,,Maintenance Operator - Power Generation Plant
+550,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+551,Waste Management,,Waste Water Engineer
+552,Southern Company,,Chemical Technician - Plant Gaston
+553,Occidental Petroleum Corporation,,Process Engineer
+554,Phillips 66,,Technician - Renewables
+555,"State of New Mexico-Energy, Minerals & Natural Res...","$47,500 - $82,600 a year",Petroleum Specialist - Advanced - UIC Program
+556,CPA Global,,Patent Analyst - Chemistry (Remote Contractor)
+557,City of Toledo,"$50,024 - $58,864 a year",Engineering Associate
+558,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+559,SPATCO ENERGY SOLUTIONS LLC,,Petroleum Sales Representative
+560,Bolivar Trading,,"SALES REPRESENTATIVE, PETROLEUM EQUIPMENT DIV."
+561,Testengeer Incorporated,$24 - $45 an hour,Chemical Engineer
+562,US Department of Veterans Affairs,"$58,842 - $76,499 a year",Engineering Technician
+563,VAM USA,,(R&D) Project/Methods Engineer Intern
+564,Honeywell,,Chemical Operator - Level 1
+565,TechnipFMC,,Electronic Hardware Engineering Intern
+566,Occidental Petroleum Corporation,,Safety Superintendent
+567,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+568,Chemical & Industrial Engineering Inc,,PLANT DESIGN DESIGNER V
+569,Occidental Petroleum Corporation,,Drafting/Designer
+570,Phillips 66,,Technician - Analytical Sciences
+571,KeyLogic Systems,,Energy Analysis Internship
+572,Honeywell,,Chemical Operator - Level 1
+573,TechnipFMC,,Electronic Hardware Engineering Intern
+574,Occidental Petroleum Corporation,,Safety Superintendent
+575,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+576,Chemical & Industrial Engineering Inc,,PLANT DESIGN DESIGNER V
+577,Occidental Petroleum Corporation,,Drafting/Designer
+578,Phillips 66,,Technician - Analytical Sciences
+579,KeyLogic Systems,,Energy Analysis Internship
+580,Occidental Petroleum Corporation,,Supt Maintenance
+581,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+582,Western Research Institute,"From $80,000 a year",Project Leader
+583,Reid Petroleum,,Network Specialist
+584,Entergy,,Maintenance Operator - Power Generation Plant
+585,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+586,Waste Management,,Waste Water Engineer
+587,VAM USA,,(R&D) Project/Methods Engineer Intern
+588,Honeywell,,Chemical Operator - Level 1
+589,TechnipFMC,,Electronic Hardware Engineering Intern
+590,Occidental Petroleum Corporation,,Safety Superintendent
+591,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+592,Chemical & Industrial Engineering Inc,,PLANT DESIGN DESIGNER V
+593,Occidental Petroleum Corporation,,Drafting/Designer
+594,Phillips 66,,Technician - Analytical Sciences
+595,KeyLogic Systems,,Energy Analysis Internship
+596,Occidental Petroleum Corporation,,Supt Maintenance
+597,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+598,Western Research Institute,"From $80,000 a year",Project Leader
+599,Reid Petroleum,,Network Specialist
+600,Entergy,,Maintenance Operator - Power Generation Plant
+601,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+602,Occidental Petroleum Corporation,,Supt Maintenance
+603,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+604,Western Research Institute,"From $80,000 a year",Project Leader
+605,International United Technology Group,,Reservoir engineer
+606,Reid Petroleum,,Network Specialist
+607,Entergy,,Maintenance Operator - Power Generation Plant
+608,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+609,Waste Management,,Waste Water Engineer
+610,Southern Company,,Chemical Technician - Plant Gaston
+611,Occidental Petroleum Corporation,,Process Engineer
+612,Phillips 66,,Technician - Renewables
+613,"State of New Mexico-Energy, Minerals & Natural Res...","$47,500 - $82,600 a year",Petroleum Specialist - Advanced - UIC Program
+614,CPA Global,,Patent Analyst - Chemistry (Remote Contractor)
+615,International United Technology Group,,Fracturing engineer
+616,AECOM,,Entry Level Environmental Scientist
+617,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+618,CVR Energy,,Intern
+619,"Applied Research Associates, Inc",,Engineering Aide
+620,Phillips 66,,Data Scientist
+621,Kinder Morgan,,Operator 12
+622,Piper Sandler,,E&P Engineer
+623,"Borets U.S., Inc.","$65,825 - $98,738 a year",Surveillance Engineer
+624,Gardner Denver Petroleum,,Development Engineer
+625,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+626,Gevo Inc.,,Plant Process Engineer
+627,Diakon Solutions,"$75,000 - $83,000 a year",Associate Engineer/Chemist
+628,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+629,"Vitus Energy, LLC","From $100,000 a year",
+630,Reid Petroleum,,Network Specialist
+631,Kiely Family of Companies,,Project Engineer
+632,Upbeet,,Upbeet - Hiring Servers and Smoothie Makers!
+633,Occidental Petroleum Corporation,,Process Engineer
+634,Phillips 66,,Technician - Renewables
+635,"State of New Mexico-Energy, Minerals & Natural Res...","$47,500 - $82,600 a year",Petroleum Specialist - Advanced - UIC Program
+636,CPA Global,,Patent Analyst - Chemistry (Remote Contractor)
+637,AECOM,,Entry Level Environmental Scientist
+638,TFE Inc,,Scientist
+639,Borets Company LLC,,Surveillance Engineer
+640,Percussion Petroleum,,VP of Operations
+641,Entergy,,Production Technician - Power Generation Plant
+642,V-TIC Services Inc.,$25 - $28 an hour,Research Chemist
+643,IPCOS,,Digital Oil Field Consultant
+644,HollyFrontier Corporation,,Precious Metals Coordinator
+645,State of West Virginia,"$48,299 - $89,353 a year",Engineer Associate - PSC - Kanawha Co.
+646,Entergy,,Maintenance Operator (Water Division) - Power Generation Pla...
+647,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+648,Gardner Denver Petroleum,,Development Engineer/Sustaining
+649,Englobal Master,,VICE PRESIDENT
+650,Energy Transfer Family of Partnerships,,Sr Engineer
+651,"Borets U.S., Inc.","$84,615 - $135,384 a year","Manager, Field Service Quality and Training"
+652,Columbia University,,Postdoctoral Research Scientist
+653,Entergy,,Production Technician - Power Generation Plant
+654,Phillips 66,,Process Engineer - Wood River Refinery
+655,OneSource,"$100,000 - $120,000 a year",Refinery Inspection Technician (3531)
+656,IPA,,Project Analyst (North America)
+657,Phillips 66,,Refinery Inspector - Billings Refinery
+658,Borets Company LLC,,Surveillance Engineer
+659,PinnacleART,,Solutions Engineer
+660,Percussion Petroleum,,VP of Operations
+661,Marathon Petroleum Corporation,,Cybersecurity Analyst - Administration and Engineering
+662,Southern Company,,Chemical Technician - Plant Gaston
+663,Gardner Denver Petroleum,,Development Engineer/Sustaining
+664,Englobal Master,,VICE PRESIDENT
+665,Energy Transfer Family of Partnerships,,Sr Engineer
+666,"Borets U.S., Inc.","$84,615 - $135,384 a year","Manager, Field Service Quality and Training"
+667,Columbia University,,Postdoctoral Research Scientist
+668,Entergy,,Production Technician - Power Generation Plant
+669,Phillips 66,,Process Engineer - Wood River Refinery
+670,OneSource,"$100,000 - $120,000 a year",Refinery Inspection Technician (3531)
+671,IPA,,Project Analyst (North America)
+672,Phillips 66,,Refinery Inspector - Billings Refinery
+673,Borets Company LLC,,Surveillance Engineer
+674,PinnacleART,,Solutions Engineer
+675,Percussion Petroleum,,VP of Operations
+676,Marathon Petroleum Corporation,,Cybersecurity Analyst - Administration and Engineering
+677,Southern Company,,Chemical Technician - Plant Gaston
+678,Occidental Petroleum Corporation,,Supt Maintenance
+679,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+680,Western Research Institute,"From $80,000 a year",Project Leader
+681,International United Technology Group,,Reservoir engineer
+682,Entergy,,Maintenance Operator - Power Generation Plant
+683,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+684,Waste Management,,Waste Water Engineer
+685,Southern Company,,Chemical Technician - Plant Gaston
+686,Occidental Petroleum Corporation,,Process Engineer
+687,Phillips 66,,Technician - Renewables
+688,"State of New Mexico-Energy, Minerals & Natural Res...","$47,500 - $82,600 a year",Petroleum Specialist - Advanced - UIC Program
+689,CPA Global,,Patent Analyst - Chemistry (Remote Contractor)
+690,International United Technology Group,,Fracturing engineer
+691,AECOM,,Entry Level Environmental Scientist
+692,TFE Inc,,Scientist
+693,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+694,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+695,Johnson Controls,,"Staff Pressure Vessel Code Engineer, Remote position"
+696,Saint-Gobain,,Principal Scientist- Asphalt
+697,Phillips 66,,Technician - Analytical Sciences
+698,Apache Corporation,,Engineer Reservoir III
+699,US Department of Justice,"$74,334 - $96,640 a year",Engineering Technician
+700,Kinder Morgan,,Director of Engineering Project Management
+701,U.S. SILICA,,"Vice President - Sales & Marketing, Oil & Gas"
+702,Phillips 66,,Instrument Technician - Alliance Refinery
+703,Scully Signal Company,,
+704,Gevo Inc.,,Plant Process Engineer
+705,Bennett Pump Company,,Software Engineer
+706,Oil and Gas Solutions,"$85,000 - $125,000 a year",Pipeline Corrosion Engineer-Permian Basin
+707,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+708,Reid Petroleum,,Network Specialist
+709,Occidental Petroleum Corporation,,Supt Maintenance
+710,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+711,Western Research Institute,"From $80,000 a year",Project Leader
+712,International United Technology Group,,Reservoir engineer
+713,Reid Petroleum,,Network Specialist
+714,Entergy,,Maintenance Operator - Power Generation Plant
+715,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+716,Waste Management,,Waste Water Engineer
+717,Southern Company,,Chemical Technician - Plant Gaston
+718,Occidental Petroleum Corporation,,Process Engineer
+719,Phillips 66,,Technician - Renewables
+720,"State of New Mexico-Energy, Minerals & Natural Res...","$47,500 - $82,600 a year",Petroleum Specialist - Advanced - UIC Program
+721,CPA Global,,Patent Analyst - Chemistry (Remote Contractor)
+722,International United Technology Group,,Fracturing engineer
+723,AECOM,,Entry Level Environmental Scientist
+724,OneSource,"$100,000 - $120,000 a year",Refinery Inspection Technician (3531)
+725,IPA,,Project Analyst (North America)
+726,Energy Transfer Family of Partnerships,,Sr Engineer - Pipeline Integrity
+727,Southern Company,,Chemical Technician - Plant Gaston
+728,Phillips 66,,Process Engineer - Wood River Refinery
+729,Lewis Energy Group,,Intern
+730,Englobal Master,,VICE PRESIDENT
+731,Entergy,,Production Technician - Power Generation Plant
+732,Phillips 66,,Refinery Inspector - Billings Refinery
+733,"Magellan Midstream Partners, L.P.",,Operations Summer Leased Worker (Limited Scope) - Oklahoma C...
+734,Gardner Denver Petroleum,,Development Engineer/Sustaining
+735,Columbia University,,Postdoctoral Research Scientist
+736,PinnacleART,,Solutions Engineer
+737,HollyFrontier Corporation,,"Engineer, Controls"
+738,Energy Transfer Family of Partnerships,,Sr Engineer
+739,Occidental Petroleum Corporation,,Drafting/Designer
+740,Phillips 66,,Technician - Analytical Sciences
+741,KeyLogic Systems,,Energy Analysis Internship
+742,Occidental Petroleum Corporation,,Supt Maintenance
+743,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+744,Western Research Institute,"From $80,000 a year",Project Leader
+745,International United Technology Group,,Reservoir engineer
+746,Reid Petroleum,,Network Specialist
+747,Entergy,,Maintenance Operator - Power Generation Plant
+748,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+749,Waste Management,,Waste Water Engineer
+750,Southern Company,,Chemical Technician - Plant Gaston
+751,Occidental Petroleum Corporation,,Process Engineer
+752,Phillips 66,,Technician - Renewables
+753,"State of New Mexico-Energy, Minerals & Natural Res...","$47,500 - $82,600 a year",Petroleum Specialist - Advanced - UIC Program
+754,Energy Transfer Family of Partnerships,,Sr Engineer
+755,Borets Company LLC,,Surveillance Engineer
+756,Marathon Petroleum Corporation,,Cybersecurity Analyst - Administration and Engineering
+757,TÜV SÜD,,Boiler Machinery Consultant
+758,Allegiance Refining LLC,,Process Engineer
+759,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+760,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+761,MTH Pumps,"$67,000 - $70,000 a year",Engineer
+762,"Borets U.S., Inc.","$84,615 - $135,384 a year","Manager, Field Service Quality and Training"
+763,Aspen Technology,,"Technical Manager, Customer Support and Training"
+764,Marathon Petroleum Corporation,,Strategy & Business Development Advisor
+765,Phillips 66,,Utilities and Energy Engineer - Billings Refinery
+766,Percussion Petroleum,,VP of Operations
+767,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+768,Infineum,,Process Technologist
+769,TFE Inc,,Scientist
+770,Borets Company LLC,,Surveillance Engineer
+771,Percussion Petroleum,,VP of Operations
+772,ASI-Industrial,"$50,000 - $90,000 a year",Field Engineer
+773,Entergy,,Production Technician - Power Generation Plant
+774,V-TIC Services Inc.,$25 - $28 an hour,Research Chemist
+775,IPCOS,,Digital Oil Field Consultant
+776,HollyFrontier Corporation,,Precious Metals Coordinator
+777,State of West Virginia,"$48,299 - $89,353 a year",Engineer Associate - PSC - Kanawha Co.
+778,Entergy,,Maintenance Operator (Water Division) - Power Generation Pla...
+779,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+780,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+781,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+782,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+783,Marathon Petroleum Corporation,,Designer/Drafter
+784,Borets Company LLC,,Surveillance Engineer
+785,Percussion Petroleum,,VP of Operations
+786,ASI-Industrial,"$50,000 - $90,000 a year",Field Engineer
+787,Entergy,,Production Technician - Power Generation Plant
+788,V-TIC Services Inc.,$25 - $28 an hour,Research Chemist
+789,IPCOS,,Digital Oil Field Consultant
+790,HollyFrontier Corporation,,Precious Metals Coordinator
+791,State of West Virginia,"$48,299 - $89,353 a year",Engineer Associate - PSC - Kanawha Co.
+792,Entergy,,Maintenance Operator (Water Division) - Power Generation Pla...
+793,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+794,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+795,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+796,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+797,Marathon Petroleum Corporation,,Designer/Drafter
+798,Chevron,,Hydroprocessing Proposals Engineer
+799,Borets Company LLC,,Surveillance Engineer
+800,Percussion Petroleum,,VP of Operations
+801,Entergy,,Production Technician - Power Generation Plant
+802,V-TIC Services Inc.,$25 - $28 an hour,Research Chemist
+803,IPCOS,,Digital Oil Field Consultant
+804,HollyFrontier Corporation,,Precious Metals Coordinator
+805,State of West Virginia,"$48,299 - $89,353 a year",Engineer Associate - PSC - Kanawha Co.
+806,Entergy,,Maintenance Operator (Water Division) - Power Generation Pla...
+807,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+808,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+809,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+810,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+811,Marathon Petroleum Corporation,,Designer/Drafter
+812,Chevron,,Hydroprocessing Proposals Engineer
+813,Phillips 66,,Refinery Inspector - Billings Refinery
+814,Borets Company LLC,,Surveillance Engineer
+815,Percussion Petroleum,,VP of Operations
+816,ASI-Industrial,"$50,000 - $90,000 a year",Field Engineer
+817,Entergy,,Production Technician - Power Generation Plant
+818,V-TIC Services Inc.,$25 - $28 an hour,Research Chemist
+819,IPCOS,,Digital Oil Field Consultant
+820,HollyFrontier Corporation,,Precious Metals Coordinator
+821,State of West Virginia,"$48,299 - $89,353 a year",Engineer Associate - PSC - Kanawha Co.
+822,Entergy,,Maintenance Operator (Water Division) - Power Generation Pla...
+823,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+824,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+825,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+826,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+827,Marathon Petroleum Corporation,,Designer/Drafter
+828,Chevron,,Hydroprocessing Proposals Engineer
+829,Marathon Petroleum Corporation,,Cybersecurity Analyst - Administration and Engineering
+830,TÜV SÜD,,Boiler Machinery Consultant
+831,Allegiance Refining LLC,,Process Engineer
+832,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+833,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+834,MTH Pumps,"$67,000 - $70,000 a year",Engineer
+835,"Borets U.S., Inc.","$84,615 - $135,384 a year","Manager, Field Service Quality and Training"
+836,Aspen Technology,,"Technical Manager, Customer Support and Training"
+837,Marathon Petroleum Corporation,,Strategy & Business Development Advisor
+838,Phillips 66,,Utilities and Energy Engineer - Billings Refinery
+839,Percussion Petroleum,,VP of Operations
+840,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+841,Infineum,,Process Technologist
+842,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+843,NewMarket Services Corporation,,R&D Scientist - Chemical Sciences
+844,City of Toledo,"$50,024 - $58,864 a year",Engineering Associate
+845,National Renewable Energy Laboratory,"$31,600 - $50,600 a year","Summer Undergraduate Internship: Economic, Sustainability &..."
+846,SPATCO ENERGY SOLUTIONS LLC,,Petroleum Sales Representative
+847,Bolivar Trading,,"SALES REPRESENTATIVE, PETROLEUM EQUIPMENT DIV."
+848,Testengeer Incorporated,$24 - $45 an hour,Chemical Engineer
+849,US Department of Veterans Affairs,"$58,842 - $76,499 a year",Engineering Technician
+850,VAM USA,,(R&D) Project/Methods Engineer Intern
+851,Honeywell,,Chemical Operator - Level 1
+852,TechnipFMC,,Electronic Hardware Engineering Intern
+853,Occidental Petroleum Corporation,,Safety Superintendent
+854,TEMPEST,"$90,000 - $120,000 a year",Sales Manager in Chemical Products/Foam Concentrates
+855,Scully Signal Company,,
+856,Gevo Inc.,,Plant Process Engineer
+857,Kiely Family of Companies,,Project Engineer
+858,"Cawley, Gillespie and Associates",,Accounts Receivable Accountant
+859,Ulterra,$16 - $20 an hour,"Research & Development Intern, Petroleum Engineering & Compu..."
+860,RDM Industrial Electronics,$18.55 - $25.14 an hour,Electronics Technician
+861,Borets Company LLC,,Surveillance Engineer
+862,Percussion Petroleum,,VP of Operations
+863,ASI-Industrial,"$50,000 - $90,000 a year",Field Engineer
+864,Entergy,,Production Technician - Power Generation Plant
+865,V-TIC Services Inc.,$25 - $28 an hour,Research Chemist
+866,IPCOS,,Digital Oil Field Consultant
+867,HollyFrontier Corporation,,Precious Metals Coordinator
+868,State of West Virginia,"$48,299 - $89,353 a year",Engineer Associate - PSC - Kanawha Co.
+869,Entergy,,Maintenance Operator (Water Division) - Power Generation Pla...
+870,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+871,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+872,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+873,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+874,Marathon Petroleum Corporation,,Designer/Drafter
+875,Chevron,,Hydroprocessing Proposals Engineer
+876,Marathon Petroleum Corporation,,Designer/Drafter
+877,Chevron,,Hydroprocessing Proposals Engineer
+878,Phillips 66,,Refinery Inspector - Billings Refinery
+879,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+880,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+881,State of Ohio Jobs,$33.84 an hour,Electrical Engineering Specialist (Energy Specialist)
+882,Fluor Federal Petroleum Operations,,Project Controls Specialist
+883,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+884,Barrios Technology,,Writing Services Management Specialist
+885,IPA,,Project Analyst (North America)
+886,Englobal Master,,Process Engineer VIII
+887,Kinder Morgan,,Specialist Right of Way - Pipelines
+888,PBF Energy,,Process Engineer
+889,California Resources Corporation,,Operations Engineer
+890,Guttman Energy,,Oil and Gas Operations Supervisor
+891,Southern Company,,Chemical Technician - Plant Gaston
+892,Allegiance Refining LLC,,Process Engineer
+893,Lewis Energy Group,,Intern
+894,"Magellan Midstream Partners, L.P.",,Operations Summer Leased Worker (Limited Scope) - Oklahoma C...
+895,HollyFrontier Corporation,,"Engineer, Controls"
+896,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+897,TÜV SÜD,,Boiler Machinery Consultant
+898,Phillips 66,,Utilities and Energy Engineer - Billings Refinery
+899,MTH Pumps,"$67,000 - $70,000 a year",Engineer
+900,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+901,Infineum,,Process Technologist
+902,Aspen Technology,,"Technical Manager, Customer Support and Training"
+903,Marathon Petroleum Corporation,,Strategy & Business Development Advisor
+904,Extract,"$86,000 - $121,635 a year",Reliability Engineer
+905,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+906,Chevron,,Hydroprocessing Proposals Engineer
+907,Phillips 66,,Refinery Inspector - Billings Refinery
+908,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+909,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+910,US Department of Agriculture,"$34,916 - $68,777 a year",Engineering Technician
+911,State of Ohio Jobs,$33.84 an hour,Electrical Engineering Specialist (Energy Specialist)
+912,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+913,Barrios Technology,,Writing Services Management Specialist
+914,IPA,,Project Analyst (North America)
+915,Englobal Master,,Process Engineer VIII
+916,Kinder Morgan,,Specialist Right of Way - Pipelines
+917,PBF Energy,,Process Engineer
+918,California Resources Corporation,,Operations Engineer
+919,Guttman Energy,,Oil and Gas Operations Supervisor
+920,Colonial Pipeline Company,,Associate Pipeline Operator
+921,Marathon Petroleum Corporation,,Designer/Drafter
+922,Chevron,,Hydroprocessing Proposals Engineer
+923,Phillips 66,,Refinery Inspector - Billings Refinery
+924,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+925,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+926,US Department of Agriculture,"$34,916 - $68,777 a year",Engineering Technician
+927,State of Ohio Jobs,$33.84 an hour,Electrical Engineering Specialist (Energy Specialist)
+928,Fluor Federal Petroleum Operations,,Project Controls Specialist
+929,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+930,Barrios Technology,,Writing Services Management Specialist
+931,IPA,,Project Analyst (North America)
+932,Englobal Master,,Process Engineer VIII
+933,Kinder Morgan,,Specialist Right of Way - Pipelines
+934,PBF Energy,,Process Engineer
+935,California Resources Corporation,,Operations Engineer
+936,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+937,US Department of the Navy,"$105,224 - $136,791 a year",SUPERVISORY ENGINEERING TECHNICIAN
+938,Marathon Petroleum Corporation,,Designer/Drafter
+939,Chevron,,Hydroprocessing Proposals Engineer
+940,Phillips 66,,Refinery Inspector - Billings Refinery
+941,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+942,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+943,US Department of Agriculture,"$34,916 - $68,777 a year",Engineering Technician
+944,State of Ohio Jobs,$33.84 an hour,Electrical Engineering Specialist (Energy Specialist)
+945,Fluor Federal Petroleum Operations,,Project Controls Specialist
+946,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+947,Barrios Technology,,Writing Services Management Specialist
+948,IPA,,Project Analyst (North America)
+949,Englobal Master,,Process Engineer VIII
+950,Kinder Morgan,,Specialist Right of Way - Pipelines
+951,Marathon Petroleum Corporation,,Instrument Engineer
+952,NewMarket Services Corporation,,R&D Scientist - Chemical Sciences
+953,University of Texas at San Antonio,,Assistant/Associate Professor (Biomedical Engineering and Ch...
+954,Mogas Industries,,Engineering Manager - Modules
+955,WestLAND Group,,DIRECTOR OF PIPELINE ENGINEERING
+956,Penn Virginia Corporation,,Production/Facilities Engineer
+957,Kinder Morgan,,Technician-Telecom - Brentwood
+958,Diamond Z Engineering,,AUTOCAD DESIGNER
+959,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+960,Department of Environmental Quality,"$4,436 - $6,789 a month",Underground Storage Tank Inspector
+961,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+962,Chevron,,Hydroprocessing Proposals Engineer
+963,Wawa,,Construction Bid Project Manager
+964,Ashland,,Senior Process Design Engineer
+965,University of Louisiana Lafayette,,Postdoctoral Researcher
+966,Marathon Petroleum Corporation,,Instrument Engineer
+967,NewMarket Services Corporation,,R&D Scientist - Chemical Sciences
+968,University of Texas at San Antonio,,Assistant/Associate Professor (Biomedical Engineering and Ch...
+969,Mogas Industries,,Engineering Manager - Modules
+970,WestLAND Group,,DIRECTOR OF PIPELINE ENGINEERING
+971,Penn Virginia Corporation,,Production/Facilities Engineer
+972,PG&E Corporation,,Senior Reservoir Engineer
+973,Kinder Morgan,,Technician-Telecom - Brentwood
+974,Diamond Z Engineering,,AUTOCAD DESIGNER
+975,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+976,Department of Environmental Quality,"$4,436 - $6,789 a month",Underground Storage Tank Inspector
+977,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+978,Chevron,,Hydroprocessing Proposals Engineer
+979,Wawa,,Construction Bid Project Manager
+980,Ashland,,Senior Process Design Engineer
+981,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+982,Atlas Technical Consultants,,Field Geologist
+983,Aramco Services Company,,Safety and Facilities Planning Specialist (628837)
+984,Port of Corpus Christi,"$48,859 - $64,397 a year",Environmental Specialist
+985,Phillips 66,,Process Engineer - Wood River Refinery
+986,"Cawley, Gillespie and Associates",,Accounts Receivable Accountant
+987,ROSEN Group,,HSE Coordinator
+988,Kinder Morgan,,Operations Specialist
+989,HollyFrontier Corporation,,Regional Oversite Coordinator
+990,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+991,Xylem,,XLI Field Technician
+992,Clariant,,Technical Service Engineer
+993,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+994,Los Alamos National Laboratory,"$94,100 a year",Earth & Environmental Sciences Research Scientist
+995,WSP USA,,Petroleum Fuel Storage Tank Specialist
+996,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+997,Marathon Petroleum Corporation,,Instrument Engineer
+998,NewMarket Services Corporation,,R&D Scientist - Chemical Sciences
+999,University of Texas at San Antonio,,Assistant/Associate Professor (Biomedical Engineering and Ch...
+1000,Mogas Industries,,Engineering Manager - Modules
+1001,WestLAND Group,,DIRECTOR OF PIPELINE ENGINEERING
+1002,Penn Virginia Corporation,,Production/Facilities Engineer
+1003,Kinder Morgan,,Technician-Telecom - Brentwood
+1004,Diamond Z Engineering,,AUTOCAD DESIGNER
+1005,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+1006,Department of Environmental Quality,"$4,436 - $6,789 a month",Underground Storage Tank Inspector
+1007,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+1008,Chevron,,Hydroprocessing Proposals Engineer
+1009,Wawa,,Construction Bid Project Manager
+1010,Ashland,,Senior Process Design Engineer
+1011,NewMarket Services Corporation,,R&D Scientist - Chemical Sciences
+1012,Marathon Petroleum Corporation,,Instrument Engineer
+1013,Mogas Industries,,Engineering Manager - Modules
+1014,Penn Virginia Corporation,,Production/Facilities Engineer
+1015,Department of Environmental Quality,"$4,436 - $6,789 a month",Underground Storage Tank Inspector
+1016,WestLAND Group,,DIRECTOR OF PIPELINE ENGINEERING
+1017,Diamond Z Engineering,,AUTOCAD DESIGNER
+1018,University of Texas at San Antonio,,Assistant/Associate Professor (Biomedical Engineering and Ch...
+1019,University of Louisiana Lafayette,,Postdoctoral Researcher
+1020,University of Texas at Arlington,,"Research Engineering Scientist Associate I-Houston, TX {S026..."
+1021,Kinder Morgan,,Technician-Telecom - Brentwood
+1022,Wawa,,Construction Bid Project Manager
+1023,U.S. Army,"Up to $79,000 a year",Government entry level
+1024,Merichem,,Sr. Process Engineer
+1025,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+1026,Phillips 66,,Refinery Inspector - Billings Refinery
+1027,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+1028,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+1029,US Department of Agriculture,"$34,916 - $68,777 a year",Engineering Technician
+1030,State of Ohio Jobs,$33.84 an hour,Electrical Engineering Specialist (Energy Specialist)
+1031,Fluor Federal Petroleum Operations,,Project Controls Specialist
+1032,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+1033,Barrios Technology,,Writing Services Management Specialist
+1034,IPA,,Project Analyst (North America)
+1035,Englobal Master,,Process Engineer VIII
+1036,Kinder Morgan,,Specialist Right of Way - Pipelines
+1037,PBF Energy,,Process Engineer
+1038,California Resources Corporation,,Operations Engineer
+1039,Guttman Energy,,Oil and Gas Operations Supervisor
+1040,Colonial Pipeline Company,,Associate Pipeline Operator
+1041,Marathon Petroleum Corporation,,Designer/Drafter
+1042,Chevron,,Hydroprocessing Proposals Engineer
+1043,Phillips 66,,Refinery Inspector - Billings Refinery
+1044,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+1045,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+1046,US Department of Agriculture,"$34,916 - $68,777 a year",Engineering Technician
+1047,State of Ohio Jobs,$33.84 an hour,Electrical Engineering Specialist (Energy Specialist)
+1048,Fluor Federal Petroleum Operations,,Project Controls Specialist
+1049,Energy Transfer Family of Partnerships,,Engineer - Pipeline Integrity East
+1050,Barrios Technology,,Writing Services Management Specialist
+1051,IPA,,Project Analyst (North America)
+1052,Englobal Master,,Process Engineer VIII
+1053,Kinder Morgan,,Specialist Right of Way - Pipelines
+1054,PBF Energy,,Process Engineer
+1055,California Resources Corporation,,Operations Engineer
+1056,Merichem,,Sr. Process Engineer
+1057,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+1058,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+1059,U.S. Army,"Up to $79,000 a year",Government entry level
+1060,RaceTrac,,Engineering Project Manager
+1061,SLR Consulting,,Air Quality Project/Associate Engineer or Scientist
+1062,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+1063,Occidental Petroleum Corporation,,Senior Chemical Research Engineer
+1064,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+1065,USC,,"Instructional Lab Tech, Senior"
+1066,BRS,,Project Environmental Specialist
+1067,TFE Inc,,Scientist
+1068,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+1069,University of Pittsburgh,,2020 ChemE Faculty
+1070,Noble 8 LLC,,Process Instrument Sales Representative
+1071,Mogas Industries,,Engineering Manager - Modules
+1072,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+1073,SD School of Mines,,Assistant Professor of Geological Engineering
+1074,Atlas Technical Consultants,,Field Geologist
+1075,Aramco Services Company,,Safety and Facilities Planning Specialist (628837)
+1076,Port of Corpus Christi,"$48,859 - $64,397 a year",Environmental Specialist
+1077,Phillips 66,,Process Engineer - Wood River Refinery
+1078,ROSEN Group,,HSE Coordinator
+1079,Kinder Morgan,,Operations Specialist
+1080,HollyFrontier Corporation,,Regional Oversite Coordinator
+1081,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1082,Xylem,,XLI Field Technician
+1083,Occidental Petroleum Corporation,,Process Operator
+1084,Clariant,,Technical Service Engineer
+1085,Air Force Reserve,,Chemist/Nuclear Chemist
+1086,University of Louisiana Lafayette,,Postdoctoral Researcher
+1087,Merichem,,Sr. Process Engineer
+1088,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+1089,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+1090,U.S. Army,"Up to $79,000 a year",Government entry level
+1091,RaceTrac,,Engineering Project Manager
+1092,SLR Consulting,,Air Quality Project/Associate Engineer or Scientist
+1093,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+1094,Occidental Petroleum Corporation,,Senior Chemical Research Engineer
+1095,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+1096,USC,,"Instructional Lab Tech, Senior"
+1097,BRS,,Project Environmental Specialist
+1098,TFE Inc,,Scientist
+1099,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+1100,University of Pittsburgh,,2020 ChemE Faculty
+1101,Guttman Energy,,Oil and Gas Operations Supervisor
+1102,Colonial Pipeline Company,,Associate Pipeline Operator
+1103,Mogas Industries,,Engineering Manager - Modules
+1104,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+1105,SD School of Mines,,Assistant Professor of Geological Engineering
+1106,Atlas Technical Consultants,,Field Geologist
+1107,Aramco Services Company,,Safety and Facilities Planning Specialist (628837)
+1108,Port of Corpus Christi,"$48,859 - $64,397 a year",Environmental Specialist
+1109,Phillips 66,,Process Engineer - Wood River Refinery
+1110,"Cawley, Gillespie and Associates",,Accounts Receivable Accountant
+1111,ROSEN Group,,HSE Coordinator
+1112,Kinder Morgan,,Operations Specialist
+1113,HollyFrontier Corporation,,Regional Oversite Coordinator
+1114,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1115,Xylem,,XLI Field Technician
+1116,Colonial Pipeline Company,,Associate Pipeline Operator
+1117,Mogas Industries,,Engineering Manager - Modules
+1118,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+1119,SD School of Mines,,Assistant Professor of Geological Engineering
+1120,Atlas Technical Consultants,,Field Geologist
+1121,Aramco Services Company,,Safety and Facilities Planning Specialist (628837)
+1122,Port of Corpus Christi,"$48,859 - $64,397 a year",Environmental Specialist
+1123,Phillips 66,,Process Engineer - Wood River Refinery
+1124,ROSEN Group,,HSE Coordinator
+1125,Kinder Morgan,,Operations Specialist
+1126,HollyFrontier Corporation,,Regional Oversite Coordinator
+1127,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1128,Xylem,,XLI Field Technician
+1129,Occidental Petroleum Corporation,,Process Operator
+1130,Clariant,,Technical Service Engineer
+1131,Colonial Pipeline Company,,Associate Pipeline Operator
+1132,Mogas Industries,,Engineering Manager - Modules
+1133,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+1134,SD School of Mines,,Assistant Professor of Geological Engineering
+1135,Atlas Technical Consultants,,Field Geologist
+1136,Aramco Services Company,,Safety and Facilities Planning Specialist (628837)
+1137,Port of Corpus Christi,"$48,859 - $64,397 a year",Environmental Specialist
+1138,Phillips 66,,Process Engineer - Wood River Refinery
+1139,"Cawley, Gillespie and Associates",,Accounts Receivable Accountant
+1140,ROSEN Group,,HSE Coordinator
+1141,Kinder Morgan,,Operations Specialist
+1142,HollyFrontier Corporation,,Regional Oversite Coordinator
+1143,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1144,Xylem,,XLI Field Technician
+1145,Occidental Petroleum Corporation,,Process Operator
+1146,Colonial Pipeline Company,,Associate Pipeline Operator
+1147,Mogas Industries,,Engineering Manager - Modules
+1148,Barrios Technology,,Test Engineer - Entry Level (Temporary)
+1149,SD School of Mines,,Assistant Professor of Geological Engineering
+1150,Atlas Technical Consultants,,Field Geologist
+1151,Aramco Services Company,,Safety and Facilities Planning Specialist (628837)
+1152,Port of Corpus Christi,"$48,859 - $64,397 a year",Environmental Specialist
+1153,Phillips 66,,Process Engineer - Wood River Refinery
+1154,"Cawley, Gillespie and Associates",,Accounts Receivable Accountant
+1155,ROSEN Group,,HSE Coordinator
+1156,Kinder Morgan,,Operations Specialist
+1157,HollyFrontier Corporation,,Regional Oversite Coordinator
+1158,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1159,Xylem,,XLI Field Technician
+1160,Occidental Petroleum Corporation,,Process Operator
+1161,Kinder Morgan,,Operations Specialist
+1162,HollyFrontier Corporation,,Regional Oversite Coordinator
+1163,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1164,Xylem,,XLI Field Technician
+1165,Clariant,,Technical Service Engineer
+1166,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1167,Los Alamos National Laboratory,"$94,100 a year",Earth & Environmental Sciences Research Scientist
+1168,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1169,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1170,Rhode Island Air National Guard,$100 - $300 a day,Fuels
+1171,Barrios Technology,,CPSS Project Coordinator (PC)
+1172,TechnipFMC,,Software Engineering Intern
+1173,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1174,"AMETEK, Inc.",,Field Service Engineer- West
+1175,aramcoservices,,Safety and Facilities Planning Specialist
+1176,Merichem,,Sr. Process Engineer
+1177,University of Alaska,,College of Engineering & Mines - Temporary Faculty (Credit)...
+1178,RaceTrac,,Engineering Project Manager
+1179,Central Ohio Technical College,,Engineering Technology (Oil & Gas)
+1180,TFE Inc,,Scientist
+1181,Ashland,,Senior Process Design Engineer
+1182,Knife River - Western Oregon Division,$22.15 an hour,QUALITY CONTROL TECHNICIAN
+1183,Chevron,,Hydroprocessing Proposals Engineer
+1184,Argonne National Laboratory,,Senior Energy Systems Researcher – Petroleum and Natural Gas...
+1185,USC,,"Instructional Lab Tech, Senior"
+1186,BRS,,Project Environmental Specialist
+1187,Cameron LNG LLC,,Field Level Training & Competency Specialist (MTC & ENG)
+1188,Noble 8 LLC,,Process Instrument Sales Representative
+1189,SLR Consulting,,Air Quality Project/Associate Engineer or Scientist
+1190,University of Pittsburgh,,2020 ChemE Faculty
+1191,"Vitus Energy, LLC","From $100,000 a year",
+1192,US Department of Veterans Affairs,"$58,842 - $76,499 a year",Engineering Technician
+1193,Occidental Petroleum Corporation,,Supt Maintenance
+1194,Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,,Engineer
+1195,Borets Company LLC,,Surveillance Engineer
+1196,"Computerized Mudlogging Service, LLC",$13.00 - $17.25 an hour,Mudlogger/Wellsite Geologist
+1197,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN (CIVIL)
+1198,Phillips 66,,Technician - Renewables
+1199,Occidental Petroleum Corporation,,Process Engineer
+1200,Southern Company,,Chemical Technician - Plant Gaston
+1201,CPA Global,,Patent Analyst - Chemistry (Remote Contractor)
+1202,"Enterprise Engineering, Inc.",,Structural Project Engineer
+1203,Diakon Solutions,"$75,000 - $83,000 a year",Associate Engineer/Chemist
+1204,Kiely Family of Companies,,Project Engineer
+1205,Upbeet,,Upbeet - Hiring Servers and Smoothie Makers!
+1206,Vitus Marine / Vitus Energy,,Chief Engineer - Tugboat
+1207,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1208,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+1209,Citgo,,CC Maintenance Supervisor
+1210,Air Force Reserve,,Logistics Readiness
+1211,Kinder Morgan,,"Engineering Technician – Portland, TN"
+1212,Occidental Petroleum Corporation,,Senior Chemical Research Engineer
+1213,Citgo,,Associate Mechanical Engineer
+1214,Honeywell,,Chemical Operator - Level 1
+1215,RDM Industrial Electronics,$25.03 - $32.15 an hour,Electronics Technician
+1216,HollyFrontier Corporation,,"Designer IV - Instrumentation, Electrical & Controls"
+1217,PBF Energy,,Process Engineer
+1218,TEAM Inc.,,UR - Engineering - FT
+1219,American Refining Group Inc.,,Engineering Intern
+1220,California Resources Corporation,,Operations Engineer
+1221,National Renewable Energy Laboratory,"$68,000 - $112,200 a year",Postdoctoral Researcher – Process modeling and sustainabilit...
+1222,University of Pittsburgh,,2020 ChemE Faculty
+1223,Noble 8 LLC,,Process Instrument Sales Representative
+1224,US Department of the Army,"$43,683 - $84,049 a year",Geologist
+1225,Air Force Reserve,,Logistics Readiness
+1226,Aramco Services Company,,Climate and Sustainability Research Scientist (613623)
+1227,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1228,Kinder Morgan,,"Engineering Technician – Portland, TN"
+1229,Honeywell,,Chemical Operator - Level 1
+1230,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+1231,RDM Industrial Electronics,$25.03 - $32.15 an hour,Electronics Technician
+1232,TEAM Inc.,,UR - Engineering - FT
+1233,Hilcorp Energy Company,,Facilities Engineer
+1234,Citgo,,CC Maintenance Supervisor
+1235,California Resources Corporation,,Operations Engineer
+1236,Citgo,,Associate Mechanical Engineer
+1237,HollyFrontier Corporation,,Regional Oversite Coordinator
+1238,Rhode Island Air National Guard,$100 - $300 a day,Fuels
+1239,Xylem,,XLI Field Technician
+1240,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1241,Axens North America,,Technology Engineer
+1242,Kinder Morgan,,Operations Specialist
+1243,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1244,Wood Mackenzie,,Senior Research Analyst - Oil & NGL Markets
+1245,Nobis Group,,Environmental Intern
+1246,Air Force Reserve,,Chemist/Nuclear Chemist
+1247,Marathon Petroleum Corporation,,Instrument Engineer
+1248,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1249,Fiedler Group,,Project Engineer (Civil Engineering)
+1250,aramcoservices,,Safety and Facilities Planning Specialist
+1251,Trident Engineering & Inspection,,Mechanical Engineer
+1252,Atlas Technical Consultants,,Field Geologist
+1253,HollyFrontier Corporation,,Regional Oversite Coordinator
+1254,Rhode Island Air National Guard,$100 - $300 a day,Fuels
+1255,Xylem,,XLI Field Technician
+1256,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1257,Axens North America,,Technology Engineer
+1258,Kinder Morgan,,Operations Specialist
+1259,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1260,Wood Mackenzie,,Senior Research Analyst - Oil & NGL Markets
+1261,Fluor Federal Petroleum Operations,,Civil Superintendent
+1262,Nobis Group,,Environmental Intern
+1263,Air Force Reserve,,Chemist/Nuclear Chemist
+1264,Marathon Petroleum Corporation,,Instrument Engineer
+1265,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1266,Fiedler Group,,Project Engineer (Civil Engineering)
+1267,Xylem,,XLI Field Technician
+1268,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1269,Axens North America,,Technology Engineer
+1270,Kinder Morgan,,Operations Specialist
+1271,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1272,Wood Mackenzie,,Senior Research Analyst - Oil & NGL Markets
+1273,Fluor Federal Petroleum Operations,,Civil Superintendent
+1274,Nobis Group,,Environmental Intern
+1275,Air Force Reserve,,Chemist/Nuclear Chemist
+1276,Marathon Petroleum Corporation,,Instrument Engineer
+1277,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1278,Fiedler Group,,Project Engineer (Civil Engineering)
+1279,aramcoservices,,Safety and Facilities Planning Specialist
+1280,Trident Engineering & Inspection,,Mechanical Engineer
+1281,Jereh North American Group,"$50,000 - $75,000 a year",Manufacturing Process Engineer
+1282,Stony Creek Colors,"$65,000 - $85,000 a year",Plant Breeder
+1283,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1284,Seeq Corporation,,Analytics Engineers - Industrial Experience - Virtual/Remote
+1285,Citgo,,CC Maintenance Supervisor
+1286,Air Force Reserve,,Logistics Readiness
+1287,Kinder Morgan,,"Engineering Technician – Portland, TN"
+1288,Occidental Petroleum Corporation,,Senior Chemical Research Engineer
+1289,Citgo,,Associate Mechanical Engineer
+1290,Honeywell,,Chemical Operator - Level 1
+1291,RDM Industrial Electronics,$25.03 - $32.15 an hour,Electronics Technician
+1292,HollyFrontier Corporation,,"Designer IV - Instrumentation, Electrical & Controls"
+1293,PBF Energy,,Process Engineer
+1294,TEAM Inc.,,UR - Engineering - FT
+1295,American Refining Group Inc.,,Engineering Intern
+1296,California Resources Corporation,,Operations Engineer
+1297,HollyFrontier Corporation,,Regional Oversite Coordinator
+1298,Rhode Island Air National Guard,$100 - $300 a day,Fuels
+1299,Xylem,,XLI Field Technician
+1300,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1301,Axens North America,,Technology Engineer
+1302,Kinder Morgan,,Operations Specialist
+1303,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1304,Wood Mackenzie,,Senior Research Analyst - Oil & NGL Markets
+1305,Fluor Federal Petroleum Operations,,Civil Superintendent
+1306,Nobis Group,,Environmental Intern
+1307,Air Force Reserve,,Chemist/Nuclear Chemist
+1308,Marathon Petroleum Corporation,,Instrument Engineer
+1309,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1310,Fiedler Group,,Project Engineer (Civil Engineering)
+1311,aramcoservices,,Safety and Facilities Planning Specialist
+1312,University of Pittsburgh,,2020 ChemE Faculty
+1313,Noble 8 LLC,,Process Instrument Sales Representative
+1314,US Department of the Army,"$43,683 - $84,049 a year",Geologist
+1315,Air Force Reserve,,Logistics Readiness
+1316,Aramco Services Company,,Climate and Sustainability Research Scientist (613623)
+1317,Oneida ESC Group,,Petroleum Specialist Instructor - Army Quartermaster School
+1318,Kinder Morgan,,"Engineering Technician – Portland, TN"
+1319,Honeywell,,Chemical Operator - Level 1
+1320,RDM Industrial Electronics,$25.03 - $32.15 an hour,Electronics Technician
+1321,TEAM Inc.,,UR - Engineering - FT
+1322,Hilcorp Energy Company,,Facilities Engineer
+1323,Citgo,,CC Maintenance Supervisor
+1324,California Resources Corporation,,Operations Engineer
+1325,Citgo,,Associate Mechanical Engineer
+1326,National Renewable Energy Laboratory,"$68,000 - $112,200 a year",Postdoctoral Researcher – Process modeling and sustainabilit...
+1327,Rhode Island Air National Guard,$100 - $300 a day,Fuels
+1328,Xylem,,XLI Field Technician
+1329,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1330,Axens North America,,Technology Engineer
+1331,Kinder Morgan,,Operations Specialist
+1332,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1333,Wood Mackenzie,,Senior Research Analyst - Oil & NGL Markets
+1334,Nobis Group,,Environmental Intern
+1335,Air Force Reserve,,Chemist/Nuclear Chemist
+1336,Marathon Petroleum Corporation,,Instrument Engineer
+1337,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1338,Fiedler Group,,Project Engineer (Civil Engineering)
+1339,Oil and Gas Solutions,"$85,000 - $125,000 a year",Pipeline Corrosion Engineer-Permian Basin
+1340,aramcoservices,,Safety and Facilities Planning Specialist
+1341,Trident Engineering & Inspection,,Mechanical Engineer
+1342,WSP USA,,Petroleum Fuel Storage Tank Specialist
+1343,Axens North America,,Technology Engineer
+1344,Kinder Morgan,,Operations Specialist
+1345,"Earth Systems, Inc.",,Entry Level Environmental Engineer
+1346,Wood Mackenzie,,Senior Research Analyst - Oil & NGL Markets
+1347,Fluor Federal Petroleum Operations,,Civil Superintendent
+1348,Nobis Group,,Environmental Intern
+1349,Air Force Reserve,,Chemist/Nuclear Chemist
+1350,Marathon Petroleum Corporation,,Instrument Engineer
+1351,US Department of the Air Force,"$72,750 - $94,581 a year",ENGINEERING TECHNICIAN
+1352,Fiedler Group,,Project Engineer (Civil Engineering)
+1353,aramcoservices,,Safety and Facilities Planning Specialist
+1354,Trident Engineering & Inspection,,Mechanical Engineer
+1355,Jereh North American Group,"$50,000 - $75,000 a year",Manufacturing Process Engineer
+1356,Merichem,,Sr. Process Engineer
+1357,Trident Engineering & Inspection,,Mechanical Engineer
+1358,Jereh North American Group,"$50,000 - $75,000 a year",Manufacturing Process Engineer
+1359,Merichem,,Sr. Process Engineer
+1360,Barrios Technology,,CPSS Project Coordinator (PC)
+1361,TechnipFMC,,Software Engineering Intern
+1362,"LanzaJet, Inc.",,Senior Process Engineer
+1363,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1364,PinnacleART,,Solutions Engineer
+1365,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1366,Kinder Morgan,,Construction Support Manager
+1367,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1368,TechnipFMC,,Account Manager
+1369,Gardner Denver Petroleum,,Production Supervisor
+1370,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1371,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1372,Allegiance Refining LLC,,Process Engineer
+1373,Barrios Technology,,Systems Engineer – Human Space Flight (SE&I)
+1374,Barrios Technology,,Wiki Developer
+1375,Diamond Z Engineering,,AUTOCAD DESIGNER
+1376,University of Texas at San Antonio,,Assistant/Associate Professor (Biomedical Engineering and Ch...
+1377,NYC Department of Buildings,"$56,041 - $64,447 a year",Industrial Hygienist
+1378,Kinder Morgan,,Director of Engineering Project Management
+1379,Occidental Petroleum Corporation,,Maintenance Engineer
+1380,"AMETEK, Inc.",,Field Service Engineer- West
+1381,Phillips 66,,Utilities and Energy Engineer - Billings Refinery
+1382,MTH Pumps,"$67,000 - $70,000 a year",Engineer
+1383,Energy Transfer Family of Partnerships,,Sr Engineer
+1384,DNV GL AS,,Summer Engineering Intern - Pipeline Hydraulics Consulting (...
+1385,Wood Plc,,Measurement Technician
+1386,Williams Companies,,Tech Specialist
+1387,Barrios Technology,,CPSS Project Coordinator (PC)
+1388,TechnipFMC,,Software Engineering Intern
+1389,"LanzaJet, Inc.",,Senior Process Engineer
+1390,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1391,PinnacleART,,Solutions Engineer
+1392,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1393,Kinder Morgan,,Construction Support Manager
+1394,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1395,TechnipFMC,,Account Manager
+1396,Gardner Denver Petroleum,,Production Supervisor
+1397,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1398,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1399,CRETE Consulting Inc,$30 - $50 an hour,Environmental Engineer
+1400,CVR Energy,,Safety Specialist - DOT Pipeline
+1401,Ventus Solutions,,Engineer
+1402,Trident Engineering & Inspection,,Mechanical Engineer
+1403,Jereh North American Group,"$50,000 - $75,000 a year",Manufacturing Process Engineer
+1404,Merichem,,Sr. Process Engineer
+1405,Barrios Technology,,CPSS Project Coordinator (PC)
+1406,TechnipFMC,,Software Engineering Intern
+1407,"LanzaJet, Inc.",,Senior Process Engineer
+1408,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1409,PinnacleART,,Solutions Engineer
+1410,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1411,Kinder Morgan,,Construction Support Manager
+1412,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1413,TechnipFMC,,Account Manager
+1414,Gardner Denver Petroleum,,Production Supervisor
+1415,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1416,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1417,California Resources Corporation,,Operations Engineer
+1418,National Renewable Energy Laboratory,"$68,000 - $112,200 a year",Postdoctoral Researcher – Process modeling and sustainabilit...
+1419,"Accura Engineering & Consulting Services, Inc.",,Construction Engineering Inspector- Utilities
+1420,Valero Energy Corporation,,Software Development Engineering Analyst
+1421,US Department of Veterans Affairs,"$58,842 - $76,499 a year",Engineering Technician
+1422,World Oil Refining,,Environmental Engineer
+1423,Weston Solutions,,Engineering Associate 2
+1424,Sundyne,"$75,000 - $95,000 a year",Project Engineer/Manager
+1425,US Department of Agriculture,"$34,916 - $68,777 a year",Engineering Technician
+1426,"LanzaJet, Inc.",,Senior Process Engineer
+1427,Hilcorp Energy Company,,Facilities Engineer
+1428,Ventus Solutions,,Engineer
+1429,OneSource,"$110,000 - $130,000 a year",Refinery Process Control Engineer (3530)
+1430,City of Toledo,"$50,024 - $58,864 a year",Engineering Associate
+1431,BRS,,Project Environmental Specaili
+1432,Jereh North American Group,"$50,000 - $75,000 a year",Manufacturing Process Engineer
+1433,Merichem,,Sr. Process Engineer
+1434,Barrios Technology,,CPSS Project Coordinator (PC)
+1435,TechnipFMC,,Software Engineering Intern
+1436,"LanzaJet, Inc.",,Senior Process Engineer
+1437,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1438,PinnacleART,,Solutions Engineer
+1439,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1440,Kinder Morgan,,Construction Support Manager
+1441,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1442,TechnipFMC,,Account Manager
+1443,Gardner Denver Petroleum,,Production Supervisor
+1444,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1445,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1446,CRETE Consulting Inc,$30 - $50 an hour,Environmental Engineer
+1447,Trident Engineering & Inspection,,Mechanical Engineer
+1448,Jereh North American Group,"$50,000 - $75,000 a year",Manufacturing Process Engineer
+1449,Merichem,,Sr. Process Engineer
+1450,Barrios Technology,,CPSS Project Coordinator (PC)
+1451,TechnipFMC,,Software Engineering Intern
+1452,"LanzaJet, Inc.",,Senior Process Engineer
+1453,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1454,PinnacleART,,Solutions Engineer
+1455,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1456,Kinder Morgan,,Construction Support Manager
+1457,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1458,TechnipFMC,,Account Manager
+1459,Gardner Denver Petroleum,,Production Supervisor
+1460,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1461,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1462,TechnipFMC,,Software Engineering Intern
+1463,"LanzaJet, Inc.",,Senior Process Engineer
+1464,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1465,PinnacleART,,Solutions Engineer
+1466,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1467,Kinder Morgan,,Construction Support Manager
+1468,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1469,TechnipFMC,,Account Manager
+1470,Gardner Denver Petroleum,,Production Supervisor
+1471,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1472,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1473,CRETE Consulting Inc,$30 - $50 an hour,Environmental Engineer
+1474,CVR Energy,,Safety Specialist - DOT Pipeline
+1475,Ventus Solutions,,Engineer
+1476,HollyFrontier Corporation,,"Superintendent, Inspection"
+1477,Merichem,,Sr. Process Engineer
+1478,Barrios Technology,,CPSS Project Coordinator (PC)
+1479,TechnipFMC,,Software Engineering Intern
+1480,"LanzaJet, Inc.",,Senior Process Engineer
+1481,The University of Texas System,,"Landman - Minerals, Midland, TX"
+1482,PinnacleART,,Solutions Engineer
+1483,Marathon Petroleum Corporation,,Intern/Co-op - Information Technology (2020-2021)
+1484,Kinder Morgan,,Construction Support Manager
+1485,Halben Llc,"$150,000 - $180,000 a year",Regional Sales Manager
+1486,TechnipFMC,,Account Manager
+1487,Gardner Denver Petroleum,,Production Supervisor
+1488,US Department of the Army,"$77,488 - $115,830 a year",Interdisciplinary
+1489,TechnipFMC,,Field Sales Representative (Surface Wellhead)
+1490,CRETE Consulting Inc,$30 - $50 an hour,Environmental Engineer
+1491,CVR Energy,,Safety Specialist - DOT Pipeline
